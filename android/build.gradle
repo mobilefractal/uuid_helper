@@ -2,7 +2,7 @@ group 'io.github.nullptrx.uuid_helper'
 version '1.0.0'
 
 buildscript {
-    ext.kotlin_version = '1.4.31'
+    ext.kotlin_version = '1.5.20'
     repositories {
         google()
         jcenter()
